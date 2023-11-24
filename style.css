@@ -1,0 +1,265 @@
+body{
+    color: #393d41;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header{
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+
+
+.firstImage{
+    text-align: center;
+    margin-top: 6.6%;
+}
+
+
+.backgroundPhoto{
+    background-image: url(Esercizio/images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: 150%;
+    background-position: 50%;
+    height: 410px;
+}
+
+
+.firstTitle{
+    font-size: 38px;
+    color: #25a2c3 ;
+    text-align: center;
+    padding-top: 15%;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.firstParagraph{
+    text-align: center;
+    margin-top: 8%;
+    line-height: 1.65rem;
+}
+
+
+button{
+    background-color: #f04c2f ;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    border: none;
+    padding: 3.5%;
+    padding-left: 7%;
+    padding-right: 7%;
+    margin-left: 33.5%;
+    margin-top: 13%;
+    border-radius: 3.5px;
+    font-size: 12px;
+}
+
+
+.div1{
+    text-align: center;
+    margin-top: 8%;
+    height: 100%;
+}
+
+
+.secondParagraph{
+    line-height: 1.6rem;
+    margin-top: 5%;
+    font-size: 17px;
+}
+
+
+.thirdParagraph{
+    line-height: 1.6rem;
+    margin-top: 5%;
+    font-size: 17px;
+}
+
+
+.span1{
+    font-size: 20px;
+font-family: 'Montserrat', sans-serif;
+}
+
+
+#spann{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.div2{
+    margin-top: 8%;
+}
+
+
+.radiusPhoto{
+    border-radius: 50%;
+    margin-top: 10%;
+    width: 75%;
+}
+
+
+.div3{
+    text-align: center;
+}
+
+
+.div4 span { 
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.div4 p {
+    line-height: 1.6rem;
+    margin-top: 5%;
+    font-size: 17px;
+}
+
+
+.div4{
+    margin-top: 8%;
+}
+
+
+.div5{
+    margin-top: 8%;
+    padding-bottom: 15%;
+}
+
+
+.div5 span {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.div5 p {
+    line-height: 1.6rem;
+    margin-top: 5%;
+    font-size: 17px;
+}
+
+
+.redBox{
+    background-color: #e22d0e;
+    height: 300px;
+    margin-top: 15%;
+    text-align: center;
+    color: whitesmoke;
+}
+
+
+.redBox h1{
+    font-size: 28px;
+    padding-top: 15%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.redBox h3{
+    font-size: 16px;
+    padding-top: 8%;
+    font-style: italic;
+    line-height: 1.6rem;
+    padding-bottom: 8%;
+}
+
+
+.redBox p {
+    line-height: 0.2rem;
+    font-size: 20px;
+}
+
+
+#ceo{
+    font-size: 13px;
+}
+
+
+.box1{
+    height: 400px;
+    width: 85%;
+    margin-top: 15%;
+    border: 1px solid #dee1e3;
+    margin-left: 7%;
+}
+
+
+.imgFoto1{
+    height: 250px;
+    width: 100%;
+    border: 1px solid #dee1e3;
+    padding: none;
+}
+
+
+.box2{
+    height: 400px;
+    width: 85%;
+    margin-top: 10%;
+    border: 1px solid #dee1e3;
+    margin-left: 7%;
+}
+
+
+.ParagraphBox{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+}
+
+
+.box3{
+    height: 400px;
+    width: 85%;
+    margin-top: 10%;
+    border: 1px solid #dee1e3;
+    margin-left: 7%;
+}
+
+
+.lastBox{
+    height: 350px;
+    margin-top: 70px;
+    background-color: #25a2c3; 
+}
+
+
+.lastBox h1{
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 12%;
+    padding-bottom: 8%;
+}
+
+
+i{
+   color: white;
+}
+
+
+hr{
+    width: 50%;
+    margin-top: 8%;
+    border-color: #c8e7f0 ;
+}
+
+
+.lastBox p{
+    line-height: 1.6rem;
+}
+
+
+footer{
+    color: #c8e7f0;
+}
+
+
+.pixabay{
+    margin-top: 8%;
+}
